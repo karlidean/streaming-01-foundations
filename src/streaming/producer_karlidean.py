@@ -14,7 +14,7 @@ Date: 2026-05
 
 Terminal command to run this file from the root project folder:
 
-    uv run python -m streaming.producer_case
+    uv run python -m streaming.producer_karlidean
 
 OBS:
   Don't edit this file - it should remain a working example.
