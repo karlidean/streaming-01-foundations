@@ -9,7 +9,7 @@ Work up to see how it all fits together.
 Many functions are standard helpers
 and should not need project-specific modifications.
 
-Author: Denise Case
+Author: Karli Dean
 Date: 2026-05
 
 Terminal command to run this file from the root project folder:
@@ -74,7 +74,7 @@ DATA_DIR: Final[Path] = ROOT_DIR / "data"
 OUTPUT_DIR: Final[Path] = DATA_DIR / "output"
 
 TOPIC_CSV: Final[Path] = OUTPUT_DIR / f"{TOPIC_NAME}.csv"
-OUTPUT_CSV: Final[Path] = OUTPUT_DIR / "consumed_sales.csv"
+OUTPUT_CSV: Final[Path] = OUTPUT_DIR / "consumed_sales_karlidean.csv"
 
 
 # ==========================================================
